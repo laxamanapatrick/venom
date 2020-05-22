@@ -1,0 +1,224 @@
+body {
+    background-image: url(images/venomeditedbg.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    backdrop-filter: blur(5px);
+}
+
+.navblock {
+    margin-top: 0.6%;
+}
+
+.navblock a {
+    color: white;
+    font-family: 'Segoe UI';
+    text-decoration: none;
+    text-transform: uppercase;
+    margin-left: 4px;
+}
+
+.atagdiv {
+    margin-top: -10px;
+}
+
+.webdetail{
+    margin-top: 3%;
+    margin-left: 2%;
+}
+
+.webinfo p {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: xx-large;
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
+.webinfo {
+    margin-left: 38.5%;
+    margin-top: -33.5%;
+}
+
+.venomface {
+    margin-left: 67%;
+    margin-top: -30.5%;
+    position: fixed;
+
+}
+
+.VENOM {
+    margin-left: 90.5%;
+    margin-top: -31%;
+}
+
+.VENOM h1 {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 50px;
+    font-weight: normal;
+    text-transform: uppercase;
+    text-orientation: upright;
+    writing-mode: vertical-lr;
+    letter-spacing: 48px;
+}
+
+.venommv {
+    margin-left: 16%;
+    margin-top: 22%;
+}
+
+
+.venomfactsintro {
+    margin: auto;
+    margin-top: 20%;
+}
+
+.venomfactsintro p {
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: 36px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.venomfactsdiv {
+    width: 437px;
+    height: 659px;
+    margin-bottom: -175px;
+}
+
+.venomfactsdiv img:nth-of-type(1) {
+    backdrop-filter: blur(25px);
+    margin-left: 1%;
+}
+
+.venomfactsdiv img:nth-of-type(2) {
+    backdrop-filter: blur(25px);
+    margin-left: 25.5%;
+}
+
+.venomfactsdiv img:nth-of-type(3) {
+    backdrop-filter: blur(25px);
+    margin-left: 50.5%;
+}
+
+.venomfactsdiv img:nth-of-type(4) {
+    backdrop-filter: blur(25px);
+    margin-left: 75%;
+}
+
+.venomfactsimg {
+    position: absolute;
+}
+
+.venomfactsimg p {
+    position: absolute;
+}
+
+.venomfact1 {
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 3.5%;
+    margin-top: 17%;
+}
+
+.venomfact2 {
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 28.5%;
+    margin-top: 3%;
+}
+
+.venomfact3 {
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 52.5%;
+    margin-top: 17%;
+}
+
+.venomfact4 {
+    position: absolute;
+    color: white;
+    font-family: 'Segoe UI';
+    font-size: xx-large;
+    font-weight: bold;
+    margin-left: 77.8%;
+    margin-top: 3%;
+}
+
+
+footer {
+    margin-top: 11%;
+    background-color: #0C1725;
+    padding: 20px;
+}
+
+.contactdetails {
+    margin-top: -1%;
+    margin-left: -0.6%;
+}
+
+.contactdetails p {
+    font-family: 'Segoe UI';
+}
+
+.contactdetails p:nth-of-type(1) {
+    color: white;
+    text-transform: uppercase;
+}
+
+.contactdetails p:nth-of-type(2) {
+    margin-top: -0.5%;
+    color: white;
+}
+
+.contactdetails p:nth-of-type(3) {
+    margin-top: -0.7%;
+    color: white;
+}
+
+.socialmedias {
+    margin-top: -5.8%;
+}
+
+.socialmedias p {
+    text-align: center;
+    font-family: 'Segoe UI';
+}
+
+.socialmedias img:nth-of-type(1) {
+    margin-left: 44.3%;
+}
+
+.socialmedias p:nth-of-type(1) {
+    color: white;
+    text-transform: uppercase;
+}
+
+.footerdetail {
+    margin-left: 95.8%;
+    margin-top: -5%;
+}
+
+.footerdetail img {
+    width: 90px;
+}
+
+
